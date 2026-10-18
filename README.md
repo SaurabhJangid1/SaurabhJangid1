@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Saurabh 👋
 
-<!--
-**SaurabhJangid1/SaurabhJangid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student in Chemical Engineering at IIT BHU Varanasi focusing on C++ and Data Structures & Algorithms.
 
-Here are some ideas to get you started:
+### 🛠️ Currently Learning & Using
+- **Language:** C++
+- **Focus:** Data Structures & Algorithms
+- **Tools:** Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Club Activities & Competitions
+- **2nd Place** – MazeX Line Follower (Robotics Club, IIT BHU)
+- **3rd Place** – dark0de CTF (Web Exploitation)
+- **5th Place** – Hidden Hand Market Simulation (The Quant Club, IIT BHU)
+
+---
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/saurabh-jangid-370a04351/)
